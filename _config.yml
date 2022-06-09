@@ -4,6 +4,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
+markdown: GFM
 gist:
   noscript: false
 kramdown:
